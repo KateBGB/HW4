@@ -1,0 +1,15 @@
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\bin\Debug\net6.0\Task27.exe
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\bin\Debug\net6.0\Task27.deps.json
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\bin\Debug\net6.0\Task27.dll
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\bin\Debug\net6.0\Task27.pdb
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.dll
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\refint\Task27.dll
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.pdb
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\Seminar3\Task1\Seminar4\Task1\HW4\HW4\Task27\obj\Debug\net6.0\ref\Task27.dll
